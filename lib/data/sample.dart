@@ -58,7 +58,7 @@ class Sample {
                   ]
               ),
               Post(
-                  location: "Herat, Afghanistan",
+                  location: "Kolkata",
                   dateAgo: "2 week ago",
                   photos: [
                     'assets/photos/six.jpg',
