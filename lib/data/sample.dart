@@ -87,7 +87,7 @@ class Sample {
             ],
             thumbnail: "assets/photos/two.jpg",
             posts: [
-               Post(
+                Post(
                   location: "Kolkata",
                   dateAgo: "3 min ago",
                   photos: [
@@ -96,7 +96,15 @@ class Sample {
                     'assets/photos/seven.jpg',
                   ]
               ),
-               Post(
+                Post(
+                  location: "Kolkata",
+                  dateAgo: "2 week ago",
+                  photos: [
+                    'assets/photos/six.jpg',
+                    'assets/photos/eight.jpg',
+                    'assets/photos/two.jpg',
+                  ],
+                Post(
                   location: "Kolkata",
                   dateAgo: "2 week ago",
                   photos: [
